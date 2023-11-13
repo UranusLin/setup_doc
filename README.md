@@ -3,7 +3,7 @@
 ## IDE
 
 - [IntelliJ](https://www.jetbrains.com/idea/) - for JAVA
-- [GoLand](https://www.jetbrains.com/go/) - for Goland
+- [GoLand](https://www.jetbrains.com/go/) - for Golang
 - [PyCharm](https://www.jetbrains.com/pycharm/) - for Python
 - [WebSotrm](https://www.jetbrains.com/webstorm/) - for JS/TS
 - [RustRover](https://www.jetbrains.com/rust/) - for Rust
