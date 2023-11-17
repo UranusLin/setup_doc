@@ -16,6 +16,7 @@
 - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) - Use `Arc Dark(Material)`
 - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
 - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+- [CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro)
 
 #### Git
 
@@ -30,6 +31,7 @@
 #### AI
 
 - [GitHub Copilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
+- [Codeium](https://plugins.jetbrains.com/plugin/20540-codeium-ai-autocomplete-and-chat-for-python-js-ts-java-go-)
 
 #### DataTool
 
